@@ -2,7 +2,6 @@
 
 <wiki:toc max_depth="3" />
 
-=Frequently Asked Questions=
 ==Save Editing==
 === I've edited my talent points, which works, but the game resets my talents whenever I enter a new level? ===
   * The game verifies your talent points and will reset your talents if it sees something wrong whenever you enter a new level, there is currently no way around this.
