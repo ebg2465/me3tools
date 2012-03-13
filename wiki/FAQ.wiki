@@ -4,7 +4,7 @@
 
 ==Coalesced.bin==
 === How can I edit Coalesced.bin? ===
-  * You can use my Coalesce tool, or use [http://wenchy.net/me3-coalesced-utility/ Monochrome Wench's ME3 Coalesced Utility]].
+  * You can use my Coalesce tool, or use [http://wenchy.net/me3-coalesced-utility/ Monochrome Wench's ME3 Coalesced Utility].
 
 ==Save Editing==
 === I've edited my talent points, which works, but the game resets my talents whenever I enter a new level? ===
