@@ -8,6 +8,7 @@
   * The only way around this is to edit Coalesced.bin: In biogame there's a section called levelrewards, change TalentReward for a level (perhaps Level 1), perhaps to some absurd number.
 
 === How can I edit Readiness? ===
+=== How can I edit Galactic Readiness Percentage? ===
   * Readiness is not stored in Singleplayer save files, you can't edit it through the Save Editor.
 
 === How can I edit my Mass Effect 2 plot? ===
