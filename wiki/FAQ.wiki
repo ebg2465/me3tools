@@ -15,6 +15,7 @@
 === How can I edit my Paragon or Renegade points? ===
   * You can find these values under Raw > Plot > Plot.
 
+=== How can I edit my Mass Effect 1 plot? ===
 === How can I edit my Mass Effect 2 plot? ===
 === I have some bug when I imported my Mass Effect 2 save in-game and I'd like to fix it? ===
 === ...other questions about editing plot ===
