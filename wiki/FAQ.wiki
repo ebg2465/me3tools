@@ -11,6 +11,7 @@
   * The game verifies your talent points and will reset your talents if it sees something wrong whenever you enter a new level.
   * The only way around this is to edit Coalesced.bin: In biogame there's a section called levelrewards, change TalentReward for a level (perhaps Level 1), perhaps to some absurd number.
 
+=== How can I edit my reputation? ===
 === How can I edit my Paragon or Renegade points? ===
   * You can find these values under Raw > Plot > Plot.
 
